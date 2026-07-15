@@ -1,0 +1,61 @@
+<svg width="1200" height="328" viewBox="0 0 1200 328" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+.cat { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; }
+.tag { font-family: 'Courier New', monospace; }
+</style></defs>
+<rect width="1200" height="328" fill="#0d1117"/>
+<rect width="1200" height="328" fill="none" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="57.0" fill="#7d8590" class="cat" font-size="14">Languages</text>
+<rect x="200.0" y="37.0" width="104.0" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="252.0" y="57.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">JavaScript</text>
+<rect x="316.0" y="37.0" width="104.0" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="368.0" y="57.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">TypeScript</text>
+<rect x="432.0" y="37.0" width="43.8" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="453.9" y="57.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">C++</text>
+<rect x="487.8" y="37.0" width="26.6" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="501.1" y="57.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">C</text>
+<rect x="526.4" y="37.0" width="61.0" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="556.9" y="57.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">HTML5</text>
+<rect x="599.4" y="37.0" width="52.4" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="625.6" y="57.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">CSS3</text>
+<line x1="0" y1="80" x2="1200" y2="80" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="113.0" fill="#7d8590" class="cat" font-size="14">Frontend</text>
+<rect x="200.0" y="93.0" width="61.0" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="230.5" y="113.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">React</text>
+<rect x="273.0" y="93.0" width="78.2" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="312.1" y="113.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Next.js</text>
+<rect x="363.2" y="93.0" width="121.2" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="423.8" y="113.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Tailwind CSS</text>
+<rect x="496.4" y="93.0" width="121.2" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="557.0" y="113.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">React Native</text>
+<line x1="0" y1="136" x2="1200" y2="136" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="169.0" fill="#7d8590" class="cat" font-size="14">Backend</text>
+<rect x="200.0" y="149.0" width="78.2" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="239.1" y="169.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Node.js</text>
+<rect x="290.2" y="149.0" width="78.2" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="329.3" y="169.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Express</text>
+<rect x="380.4" y="149.0" width="78.2" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="419.5" y="169.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">FastAPI</text>
+<rect x="470.6" y="149.0" width="95.4" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="518.3" y="169.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">REST APIs</text>
+<line x1="0" y1="192" x2="1200" y2="192" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="225.0" fill="#7d8590" class="cat" font-size="14">Database</text>
+<rect x="200.0" y="205.0" width="78.2" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="239.1" y="225.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">MongoDB</text>
+<rect x="290.2" y="205.0" width="104.0" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="342.2" y="225.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">PostgreSQL</text>
+<rect x="406.2" y="205.0" width="61.0" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="436.7" y="225.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">MySQL</text>
+<rect x="479.2" y="205.0" width="86.8" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="522.6" y="225.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Firebase</text>
+<line x1="0" y1="248" x2="1200" y2="248" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="281.0" fill="#7d8590" class="cat" font-size="14">Infra</text>
+<rect x="200.0" y="261.0" width="69.6" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="234.8" y="281.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Docker</text>
+<rect x="281.6" y="261.0" width="43.8" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="303.5" y="281.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">AWS</text>
+<rect x="337.4" y="261.0" width="69.6" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="372.2" y="281.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Vercel</text>
+<rect x="419.0" y="261.0" width="104.0" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="471.0" y="281.0" text-anchor="middle" fill="#c9d1d9" class="tag" font-size="13.5">Cloudflare</text>
+</svg>

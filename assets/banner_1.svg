@@ -1,0 +1,15 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; }
+.role { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 400; }
+.mono { font-family: 'Courier New', monospace; }
+</style>
+</defs>
+<rect width="1200" height="180" fill="#0d1117"/>
+<rect width="1200" height="180" fill="none" stroke="#21262d" stroke-width="1"/>
+<line x1="0" y1="179" x2="1200" y2="179" stroke="#30363d" stroke-width="2"/>
+<text x="60" y="72" fill="#e6edf3" class="name" font-size="34">Agrim Khandelwal</text>
+<text x="60" y="102" fill="#7d8590" class="role" font-size="17">Full Stack Developer — React · Node.js · TypeScript</text>
+<text x="60" y="140" fill="#3fb950" class="mono" font-size="14">● Currently building PrepCUET — an AI-powered support chatbot in progress</text>
+</svg>

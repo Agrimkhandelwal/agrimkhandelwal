@@ -1,0 +1,30 @@
+<svg width="1200" height="284" viewBox="0 0 1200 284" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+.title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; }
+.desc { font-family: 'Segoe UI', Arial, sans-serif; }
+.meta { font-family: 'Segoe UI', Arial, sans-serif; }
+</style></defs>
+<rect width="1200" height="284" fill="#0d1117"/>
+<rect width="1200" height="284" fill="none" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="38" fill="#58a6ff" class="title" font-size="18">PrepCUET</text>
+<circle cx="154" cy="33" r="4" fill="#3fb950"/>
+<text x="166" y="38" fill="#3fb950" class="meta" font-size="13">Live</text>
+<text x="1160" y="38" text-anchor="end" fill="#7d8590" class="meta" font-size="13">prepcuet.in</text>
+<text x="40" y="64" fill="#8b949e" class="desc" font-size="14">Full-stack CUET exam-prep platform — mock tests, course enrollment, student dashboard and admin panel.</text>
+<circle cx="45" cy="84" r="6" fill="#f1e05a"/>
+<text x="58" y="88" fill="#7d8590" class="meta" font-size="12.5">JavaScript</text>
+<line x1="0" y1="96" x2="1200" y2="96" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="130" fill="#58a6ff" class="title" font-size="18">Real-Time Bidding System</text>
+<circle cx="330" cy="125" r="4" fill="#7d8590"/>
+<text x="342" y="130" fill="#7d8590" class="meta" font-size="13">Built</text>
+<text x="40" y="156" fill="#8b949e" class="desc" font-size="14">Live auction engine with real-time bid updates and concurrent-user handling over WebSockets.</text>
+<circle cx="45" cy="176" r="6" fill="#3178c6"/>
+<text x="58" y="180" fill="#7d8590" class="meta" font-size="12.5">TypeScript</text>
+<line x1="0" y1="188" x2="1200" y2="188" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="222" fill="#58a6ff" class="title" font-size="18">AI Support Chatbot</text>
+<circle cx="264" cy="217" r="4" fill="#d29922"/>
+<text x="276" y="222" fill="#d29922" class="meta" font-size="13">In progress</text>
+<text x="40" y="248" fill="#8b949e" class="desc" font-size="14">Conversational AI chatbot for automated support, built on RAG for context-aware responses.</text>
+<circle cx="45" cy="268" r="6" fill="#3572A5"/>
+<text x="58" y="272" fill="#7d8590" class="meta" font-size="12.5">Python</text>
+</svg>
