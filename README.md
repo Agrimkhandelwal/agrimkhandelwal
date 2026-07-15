@@ -28,7 +28,6 @@ Full stack developer based in India. I like taking a product from an empty repo 
 <img src="https://github-readme-stats.shion.dev/api?username=agrimkhandelwal&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=7d8590&text_color=c9d1d9" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=agrimkhandelwal&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
 
-<img src="https://raw.githubusercontent.com/agrimkhandelwal/agrimkhandelwal/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ---
 
