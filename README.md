@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Agrim%20Khandelwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Hi, I'm Agrim Khandelwal
+
+### Full Stack Developer · Building AI-Powered Products from India 🇮🇳
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+TypeScript;Building+AI-Powered+Chatbots+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%E2%9A%A1" alt="Typing SVG"/>
+
+<br/>
 
 <a href="https://linkedin.com/in/agrim-khandelwal-95662527a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,65 +18,33 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Building+MERN+Stack+Projects+%F0%9F%9A%80;Crafting+AI-Powered+Chatbots+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%E2%9A%A1" alt="Typing SVG"/>
+<img src="https://komarev.com/ghpvc/?username=agrimkhandelwal&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 🧭 About Me
-
-```yaml
-current_focus:    MERN Stack Projects & AI-powered Chatbots
-learning:         Next.js · TypeScript · System Design · Cloud Technologies
-collaborating_on: Full Stack Web Applications & Open Source
-seeking_help:     Scalable Backend Architecture · DevOps
-ask_me_about:     React.js · Node.js · Express.js · MongoDB · JavaScript · REST APIs
-fun_fact:         "I enjoy turning ideas into real-world applications 💡"
-```
-
-<br/>
-
-## 🛠️ Tech Arsenal
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="60%" valign="top">
 
-**Languages**
-<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend & Backend**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+```yaml
+🔭 Currently Building:  Full Stack Web Apps & AI-Powered Chatbots
+🌱 Currently Learning:  Next.js · TypeScript · System Design · Cloud
+👯 Open to Collab:      Full Stack Web Applications & Open Source
+🤔 Need Help With:      Scalable Backend Architecture · DevOps
+💬 Ask Me About:        React · Node.js · Express · MongoDB · REST APIs
+⚡ Fun Fact:            I turn ideas into real products, end to end.
+```
 
 </td>
-<td valign="top" width="33%">
+<td width="40%" valign="top" align="center">
 
-**Database & Cloud**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://github-readme-stats.shion.dev/api?username=agrimkhandelwal&show_icons=true&theme=radical&hide_border=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -78,46 +52,72 @@ fun_fact:         "I enjoy turning ideas into real-world applications 💡"
 
 <br/>
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,html,css&theme=dark" />
+
+<br/><br/>
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi&theme=dark" />
+
+<br/><br/>
+
+**Database, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,docker,git,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=agrimkhandelwal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=agrimkhandelwal&theme=radical&hide_border=true&ring=8B5CF6&fire=8B5CF6" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=agrimkhandelwal&theme=radical&hide_border=true&ring=8B5CF6&fire=C084FC&currStreakLabel=8B5CF6" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=agrimkhandelwal&theme=radical&hide_border=true&layout=compact&langs_count=8" width="30%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=agrimkhandelwal&theme=radical&hide_border=true&layout=compact&langs_count=8&title_color=8B5CF6" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrimkhandelwal&theme=redical&hide_border=true&color=8B5CF6&line=8B5CF6&point=ffffff" width="48%"/>
-</div>
-
-<br/>
-
-## 🏆 Contributions & Streak
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=agrimkhandelwal&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrimkhandelwal&theme=redical&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=C084FC" width="97%"/>
 </div>
 
 <br/>
 
+## 🏆 Achievements
+
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=agrimkhandelwal&theme=radical&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" width="97%"/>
+</div>
+
+<br/>
 
 ## 💬 Dev Wisdom
 
+<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-### 📫 Let's Connect & Build Something Great
+## 📫 Let's Connect & Build Something Great
+
+Open to full stack projects, AI integrations, and collaborations of any kind.
 
 [![Email](https://img.shields.io/badge/Reach%20Out-agrimkhandelwal5%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrimkhandelwal5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agrim-khandelwal-95662527a)
 
-<img src="https://komarev.com/ghpvc/?username=agrimkhandelwal&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="profile views"/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<sub>⭐️ From <a href="https://github.com/agrimkhandelwal">agrimkhandelwal</a> — thanks for stopping by!</sub>
 
 </div>
