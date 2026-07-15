@@ -1,122 +1,127 @@
 <div align="center">
 
-```typescript
-const agrim = {
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  focus: ["React", "Node.js", "TypeScript", "AI Chatbots"],
-  currentlyLearning: ["Next.js", "System Design", "Cloud Architecture"],
-  philosophy: "Ship the idea, refine it in production."
-};
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:F472B6&height=250&section=header&text=AGRIM%20KHANDELWAL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20India&descAlignY=52&descSize=19&descColor=E9D5FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=const+status+%3D+%22building+something+new%22%3B;while+(true)+%7B+learn()%3B+ship()%3B+repeat()%3B+%7D;console.log(%22open+to+collaborate+%F0%9F%A4%9D%22)%3B" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Web+Apps+%F0%9F%9A%80;Crafting+AI-Powered+Chatbots+%F0%9F%A4%96;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;Turning+Ideas+Into+Real+Products+%E2%9C%A8" alt="Typing SVG" />
 
-<sub>[ <a href="https://linkedin.com/in/agrim-khandelwal-95662527a">LinkedIn</a> · <a href="https://x.com/agrimcodes">X / Twitter</a> · <a href="mailto:agrimkhandelwal5@gmail.com">Email</a> ]</sub>
+<br/>
+
+<a href="https://linkedin.com/in/agrim-khandelwal-95662527a"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/agrimcodes"><img src="https://img.shields.io/badge/X-C084FC?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:agrimkhandelwal5@gmail.com"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=agrimkhandelwal&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-```
-▸ whoami
-```
-
-I'm a full stack developer who likes taking a product from a blank repo to something real people use. Most days I'm somewhere between React components and API design, currently deep in AI-powered chatbot builds and figuring out how to make backends that don't fall over under load.
-
-<br>
-
-```
-▸ stack --list
-```
+<br/>
 
 <table width="100%">
 <tr>
-<td width="20%"><b>Core</b></td>
-<td>
+<td width="55%" valign="top">
 
-`JavaScript` `TypeScript` `C++` `C` `HTML5` `CSS3`
+### 🎯 About Me
 
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
+I'm a full stack developer who loves taking a product from an empty repo to something people actually use. Right now I'm deep into **AI-powered chatbots** and figuring out how to make backends that don't buckle under real traffic.
 
-`React` `Next.js` `Tailwind CSS` `React Native`
-
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-`Node.js` `Express` `FastAPI` `REST APIs` `JWT`
+```yaml
+🔭 Building:      Full stack web apps & AI chatbots
+🌱 Learning:       Next.js, System Design, Cloud
+🤝 Collaborate on: Full stack & open-source projects
+🧩 Need help with: Scalable backend architecture, DevOps
+⚡ Fun fact:       I ship fast, then make it beautiful
+```
 
 </td>
-</tr>
-<tr>
-<td><b>Data</b></td>
-<td>
+<td width="45%" valign="top" align="center">
 
-`MongoDB` `PostgreSQL` `MySQL` `Firebase` `Supabase`
-
-</td>
-</tr>
-<tr>
-<td><b>Infra</b></td>
-<td>
-
-`Docker` `AWS` `Google Cloud` `Vercel` `Render` `Cloudflare`
+<img src="https://github-readme-stats.shion.dev/api?username=agrimkhandelwal&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=C084FC&icon_color=F472B6&text_color=e9e9f0" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-```
-▸ status --now
-```
-
-| | |
-|---|---|
-| 🔭 **Building** | Full stack web apps & AI-powered chatbots |
-| 🌱 **Learning** | Next.js · TypeScript · System Design · Cloud |
-| 🤝 **Open to** | Collaborating on full stack & open-source projects |
-| 🧩 **Need help with** | Scalable backend architecture, DevOps |
-| 💬 **Talk to me about** | React, Node.js, MongoDB, system design, shipping fast |
-
-<br>
-
-```
-▸ metrics --github
-```
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=agrimkhandelwal&show_icons=true&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=agrimkhandelwal&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" height="165"/>
+
+### 💜 Tech Arsenal
+
 </div>
 
+<table width="100%">
+<tr>
+<td align="center" width="16%">🧠<br/><b>Languages</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,html,css&theme=dark&perline=6"/>
+</td>
+</tr>
+<tr>
+<td align="center">🎨<br/><b>Frontend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,react&theme=dark&perline=6"/>
+</td>
+</tr>
+<tr>
+<td align="center">⚙️<br/><b>Backend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark&perline=6"/>
+</td>
+</tr>
+<tr>
+<td align="center">🗄️<br/><b>Database</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase&theme=dark&perline=6"/>
+</td>
+</tr>
+<tr>
+<td align="center">☁️<br/><b>Cloud & DevOps</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,cloudflare,git&theme=dark&perline=6"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrimkhandelwal&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="97%"/>
+
+### 📊 GitHub Analytics
+
+<img src="https://streak-stats.demolab.com/?user=agrimkhandelwal&theme=tokyonight&hide_border=true&background=1a1b27&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=agrimkhandelwal&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=C084FC&layout=compact&langs_count=8" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrimkhandelwal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=C084FC&line=C084FC&point=F472B6" width="97%"/>
+
 </div>
 
-<br>
-
-```
-▸ contact --send
-```
+<br/>
 
 <div align="center">
 
-```bash
-$ curl -X POST https://reach.agrim.dev \
-  -d '{"topic": "let'"'"'s build something", "reply_to": "agrimkhandelwal5@gmail.com"}'
-```
+### 🏆 Trophy Room
 
-**[✉ Email me](mailto:agrimkhandelwal5@gmail.com)** &nbsp;·&nbsp; **[in LinkedIn](https://linkedin.com/in/agrim-khandelwal-95662527a)** &nbsp;·&nbsp; **[𝕏 agrimcodes](https://x.com/agrimcodes)**
+<img src="https://github-profile-trophy.vercel.app/?username=agrimkhandelwal&theme=discord&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="97%"/>
 
-<sub><img src="https://komarev.com/ghpvc/?username=agrimkhandelwal&label=visitors&color=A78BFA&style=flat-square"/></sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✨ Words to Code By
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:C084FC,100:8B5CF6&height=150&section=footer" width="100%"/>
+
+<div align="center">
+
+**Let's build something great together** — <a href="mailto:agrimkhandelwal5@gmail.com">say hi 👋</a>
 
 </div>
