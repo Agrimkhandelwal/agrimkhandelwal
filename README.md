@@ -3,13 +3,13 @@
 <a href="https://linkedin.com/in/agrim-khandelwal-95662527a">LinkedIn</a> ·
 <a href="https://x.com/agrimcodes">X</a> ·
 <a href="mailto:agrimkhandelwal5@gmail.com">Email</a> ·
-<a href="https://prepcuet.in">prepcuet.in</a>
+<a href="https://prepcuet.in">preepcuet.in</a>
 
 <br/>
 
 ## About
 
-Full stack developer based in India. I like taking a product from an empty repo to something people actually use — currently building [PrepCUET](https://prepcuet.in), a CUET exam-prep platform, and an AI-powered support chatbot on the side.
+Full stack developer based in India. I like taking a product from an empty repo to something people actually use — currently building [PrepCUET](https://preepcuet.in), a CUET exam-prep platform, and an AI-powered support chatbot on the side.
 
 - **Building:** PrepCUET, AI support chatbot
 - **Learning:** Next.js, System Design, Cloud Architecture
